@@ -1,9 +1,9 @@
 # 工作流
 
 ## 参考文档
-[一套标准的前端代码工作流](https://mp.weixin.qq.com/s/Y4DDVbGNGrbaBrKICy1irA)
-[prettier options](https://prettier.io/docs/en/options.html)
-[cz-customizable](https://github.com/leoforfree/cz-customizable#steps)
+- [一套标准的前端代码工作流](https://mp.weixin.qq.com/s/Y4DDVbGNGrbaBrKICy1irA)
+- [prettier options](https://prettier.io/docs/en/options.html)
+- [cz-customizable](https://github.com/leoforfree/cz-customizable#steps)
 
 ## ESlint
 
